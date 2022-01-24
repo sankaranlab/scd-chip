@@ -7,5 +7,5 @@ RESULTS. While we had sufficient power to detect a greater than 2-fold increased
 CONCLUSIONS. We did not observe an increased risk for acquiring detectable CH in SCD, at least as measured by whole genome sequencing. These results should help guide ongoing efforts and further studies that seek to better define the risk factors underlying myeloid malignancy predisposition in SCD and help ensure that curative therapies can be more safely applied.
 
 ## Publication
-[Liggett et al. JCI 2022]('https://www.jci.org/articles/view/156060')
+[[Liggett et al. JCI 2022]]('https://www.jci.org/articles/view/156060')
 
