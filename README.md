@@ -15,9 +15,9 @@
 
 ## Mutect2 Mutation Calling
 
-Somatic CHIP mutations were called from the exome sequencing data found within the manuscript using Mutect2 hosted on the Broad Institute's [Terra platform](https://app.terra.bio/#). A panel of normal samples was used to correct for sequencing and library preparation artifacts. `mutect2_config.json` and `mutect2_PON_config.json` can be used to replicate this paper's run conditions on Terra.
+Somatic CHIP mutations were called from the exome sequencing data found within this manuscript using Mutect2 hosted on the Broad Institute's [Terra platform](https://app.terra.bio/#). A panel of normal samples was used to correct for sequencing and library preparation artifacts. `mutect2_config.json` and `mutect2_PON_config.json` can be used to replicate this paper's run conditions on Terra.
 
-## Citation 
+## References
 
 [Liggett et al. JCI 2022](https://www.jci.org/articles/view/156060)  
 [Liggett et al. medRxiv 2021](https://www.medrxiv.org/content/10.1101/2021.06.12.21258772v1)  
