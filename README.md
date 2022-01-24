@@ -1,6 +1,6 @@
 # Clonal Hematopoiesis in Sickle Cell Disease
 
-<div align=center> <img src="fig_1.png" width="680" height="278"> </div> 
+<div align=center> <img src="fig_1.png"> </div> 
 
 ## Abstract
 BACKGROUND. Curative gene therapies for sickle cell disease (SCD) are currently undergoing clinical evaluation. The occurrence of myeloid malignancies in these trials has prompted safety concerns. Individuals with SCD are predisposed to myeloid malignancies, but the underlying causes remain undefined. Clonal hematopoiesis (CH) is a pre-malignant condition that also confers significant predisposition to myeloid cancers. While it has been speculated that CH may play a role in SCD-associated cancer predisposition, limited data addressing this issue have been reported.
